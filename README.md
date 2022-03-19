@@ -1,2 +1,1 @@
-# Gitting-around-D
- Basic tasks for practice the use of git
+Practice the basics of git like adding files and modifying them.
